@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="image">
+    <file>enhance1.png</file>
+    <file>enhance2.png</file>
+    <file>linkImage.png</file>
+    <file>openImage.png</file>
+    <file>program.png</file>
+    <file>saveImage.png</file>
+  </qresource>
+</RCC>

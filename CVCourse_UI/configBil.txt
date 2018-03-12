@@ -1,0 +1,4 @@
+sigmaColor:
+50
+sigmaSpace:
+12.5
