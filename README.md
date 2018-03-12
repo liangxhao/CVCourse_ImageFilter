@@ -3,7 +3,7 @@
 ### Display image filtering: 
 ### Gudied Flier,L0 smooth Fliter, Bilateral Fliter
 
-This code comes from my computer vision course。
+This code comes from my computer vision course homework.
 
 The interface is written in python3 and depends on the PyQt5 framework.
 
